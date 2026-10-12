@@ -6,7 +6,7 @@ Malaysia–Japan Economic Partnership Agreement (MJEPA)**, in force 13 July
 category row of that table, and the staging category of every HS 2002
 six-digit code, as CSV and Excel files.
 
-Prepared by **Firdaus** for MA thesis research on the effect of MJEPA on
+Prepared by **Muhamad Firdaus Ali** for MA thesis research on the effect of MJEPA on
 Malaysian exports to Japan. This is not an official dataset. For legal
 purposes, always use the original schedule.
 
@@ -131,7 +131,8 @@ text, independently of the parser, and confirms for each code:
 
 ## Citation
 
-> Firdaus (2026). *MJEPA Schedule of Japan, parsed to HS6* [dataset].
+> Ali, Muhamad Firdaus (2026). *MJEPA Schedule of Japan, parsed to HS6*
+> [dataset]. Version 1.0.0.
 > GitHub. <https://github.com/mfirdausali/mjepa-japan-schedule-data>
 
 See `CITATION.cff`.

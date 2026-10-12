@@ -3,7 +3,8 @@ message: "If you use this dataset, please cite it as below."
 title: "MJEPA Schedule of Japan, parsed to HS6"
 type: dataset
 authors:
-  - name: "Firdaus"
+  - given-names: "Muhamad Firdaus"
+    family-names: "Ali"
 date-released: 2026-10-12
 version: "1.0.0"
 license: CC-BY-4.0
